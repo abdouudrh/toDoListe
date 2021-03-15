@@ -1,0 +1,8 @@
+.to-do {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+  }
+  .to-do-name {
+    font-size: 25px;
+  }
